@@ -1,7 +1,4 @@
 import br.com.dio.desafio.dominio.*;
-import org.w3c.dom.ls.LSOutput;
-
-import java.sql.SQLOutput;
 import java.time.LocalDate;
 
 public class Main {
@@ -15,8 +12,6 @@ public class Main {
         curso2.setTitulo("Curso JavaScript");
         curso2.setDescricao("Descrição Curso JavaScript");
         curso2.setCargaHoraria(4);
-
-        Conteudo conteudo = new Curso();
 
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria de Java");
