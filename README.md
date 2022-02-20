@@ -1,7 +1,7 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
 <p> Abstraindo um bootcamp usando orientação a objetos em java. </p>
-<p> Laboratório de Java </p>
+<p> TIC - Laboratório 3 _ Java </p>
 
 
 
