@@ -143,9 +143,3 @@ Se possível:<br>
 ⭐️  Star o projeto<br>
 🐛 Encontrar e relatar issues<br>
 </p>
-
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
